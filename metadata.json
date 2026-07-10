@@ -1,0 +1,6 @@
+{
+  "name": "Venecol RP Store",
+  "description": "Premium FiveM virtual vehicle and asset store with an interactive catalog, user dashboard, support tickets, and shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
